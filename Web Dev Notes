@@ -1,1 +1,16 @@
+<!-- Boilerplate code -->
+<! Doctype html>
+<!-- Will define the html version used-->
+<html lang="en">
+<!-- will define the language used in html code and other properties -->
 
+<head>
+
+<meta charset="UTF-8">
+<title> My Website </title>
+</head>
+
+<body>
+<h1> HTML Boilerplate code</h1>
+</body>
+</html>
