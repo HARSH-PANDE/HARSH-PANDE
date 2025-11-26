@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @HARSH-PANDEY
-- 👀 I’m interested in ... Android Development , Pen Testing and Web Develpoment
-- 🌱 I’m currently learning - Android/Web Development
-- 💞️ I’m looking to collaborate on any project of my Interest ...
-- 📫 How to reach me ... Ig_Username - its.0_0.harsh , https://www.instagram.com/its.0_0.harsh?r=nametag , 
--                         Email - arshpandey.127@gmail.com 
--                         FaceBook - https://www.facebook.com/harsh.pandey.1840070
--                         Youtube - https://www.youtube.com/channel/UCbPaLWJlKCr_HCSb6ah8uRw
+👋 Hi, I’m @HARSH-PANDEY
+  DevOps Engineer with 3+ years of experience designing, automating, and managing secure AWS cloud infrastructures. I specialize in building scalable CI/CD pipelines and have led successful automation initiatives using Jenkins integrated with GitHub, significantly improving deployment speed and reliability.
+
+I have hands-on experience deploying containerized applications using Docker, EKS, and Fargate, along with strong proficiency across AWS services such as EC2, S3, CloudFormation, IAM, and CloudWatch. 
+My work includes cost optimization, performance tuning, and enforcing security best practices through proactive monitoring and vulnerability scanning with AWS Inspector.
+
+I’m passionate about building efficient, secure, and scalable cloud environments—and continuously improving DevOps workflows through automation, observability, and collaboration.
 
 <!---
 HARSH-PANDE/HARSH-PANDE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
